@@ -1,4 +1,4 @@
-{$SITE_HOST:localhost}:80 {
+:80 {
     root * /srv
     file_server
 
