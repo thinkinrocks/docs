@@ -28,7 +28,8 @@ Every user Linux machines comes equipped with...
 - [`tcpdump`]
 - [`lynis`], the automatic security auditing tool.
 - [`croc`]
-
+- ['ethtool`]
+- [`wakeonlan`]
 
 Something missing? Message [Artur](https://t.me/ktnlvr), he'll set it up for you.
 
